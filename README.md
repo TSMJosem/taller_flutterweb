@@ -1,3 +1,3 @@
 # taller_flutterweb
 
-A new Flutter project.
+Proyecto personalizado del Taller de Flutter Web
